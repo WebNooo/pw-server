@@ -1,0 +1,15 @@
+/Users/nooo/projects/pw-server/world/bin/Debug/net7.0/world
+/Users/nooo/projects/pw-server/world/bin/Debug/net7.0/world.deps.json
+/Users/nooo/projects/pw-server/world/bin/Debug/net7.0/world.runtimeconfig.json
+/Users/nooo/projects/pw-server/world/bin/Debug/net7.0/world.dll
+/Users/nooo/projects/pw-server/world/bin/Debug/net7.0/world.pdb
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.csproj.AssemblyReference.cache
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.AssemblyInfoInputs.cache
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.AssemblyInfo.cs
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.csproj.CoreCompileInputs.cache
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.dll
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/refint/world.dll
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.pdb
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/world.genruntimeconfig.cache
+/Users/nooo/projects/pw-server/world/obj/Debug/net7.0/ref/world.dll
